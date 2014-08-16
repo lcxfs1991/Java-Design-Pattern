@@ -1,8 +1,8 @@
-<b>MarketTool interface</b>;
+MarketTool interface;
 
-<b>Stock, Bond and Option</b> concrete class to implement this interface;
+Stock, Bond and Option concrete class to implement this interface;
 
-<b>MarketFactory</b> to get market tool value based on market tool type;
+MarketFactory to get market tool value based on market tool type;
 
 
 

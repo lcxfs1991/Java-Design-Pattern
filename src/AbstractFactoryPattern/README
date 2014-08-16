@@ -1,0 +1,18 @@
+MarketTool interface;
+
+Stock, Bond and Option concrete class to implement this interface;
+
+Currency interface;
+
+Rmb, Usd and Hkd concrete class to implement this interface;
+
+AbstractFactory abstract class have two methods, getCurrencyValue and getMarketValue;
+
+CurrencyFactory class extends AbstractFactory
+
+MarketFactory class extends AbstractFactory
+
+FactoryProducer decides which factory to build. Use FactoryProducer to build different factories and build different objects
+
+
+
