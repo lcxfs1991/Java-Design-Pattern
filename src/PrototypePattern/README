@@ -1,0 +1,5 @@
+Security extends Cloneable super class to make it cloneable
+
+stock, bond and option are three types of Security
+
+These types can be cloned using object.clone directly to save time and cost
