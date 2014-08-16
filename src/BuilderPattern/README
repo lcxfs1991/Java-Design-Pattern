@@ -1,0 +1,14 @@
+MarketTool is the common interface for all financial product
+
+Security and Fund are two types of MarketTool
+
+stock, bond are two types of Security
+
+mutualfund and hedgefund are two types of Fund
+
+Investment is a controller that has some functions to add, show tool list
+
+InvestmentBuild has function to build different types of portfolios
+
+
+
